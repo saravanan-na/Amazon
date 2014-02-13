@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="source/test" output="do_not_checkin/target/test-classes" including="**/*.java"/>
+  <classpathentry kind="src" path="source/lib" including="**/*.java"/>
+  <classpathentry kind="output" path="do_not_checkin/target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+</classpath>
